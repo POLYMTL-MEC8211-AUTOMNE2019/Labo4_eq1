@@ -16,7 +16,7 @@ timeRange = 5
 
 solManufacturee = 10*math.cos(math.pi*timeRange)
 
-timeStep = [.1, .05, .025, .0125, .00625, .003125, .0015625]
+timeStep = [.1, .025, .00625, .0015625 , .000390625]
 erreurEuler = []
 erreurRungeKutta = []
 
