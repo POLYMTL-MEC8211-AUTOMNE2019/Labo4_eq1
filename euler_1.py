@@ -16,4 +16,3 @@ def euler_1(function, y0, timeStep, finalTime):
 
     return np.array(Y)
 
-
