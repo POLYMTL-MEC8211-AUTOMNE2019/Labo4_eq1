@@ -26,7 +26,7 @@ def runge_kutta(F, y, t, dt):
 
 X0 = 10
 Y0 = 0
-Y0_d = -10
+#Y0_d = -10
 
 time_step = 0.01
 time_step_2 = 0.01
